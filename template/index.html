@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Recurrent Neural Network</title>
+		<style>
+			* {
+				font-size: 30px;
+
+			}
+		</style>
+	</head>
+	<body>
+	<h1>Simple Recurrent Neural Network</h1>	
+		<form action="{{ url_for('index') }}" method="POST">
+    		<label for="numOne">First Number</label>
+    		<input type="text" id="num_one" name="one">
+    		<br>
+    		<label for="w_class">Second Number</label>
+    		<input type="text" id="num_two" name="two">
+    		<input type="submit" value="Submit">
+		</form>
+	</body>
+</html>
