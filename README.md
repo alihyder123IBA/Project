@@ -14,7 +14,7 @@ In this Hands on project I have used Simple Recurrent Neural Network. And One Ho
 
 ## To Run this Project
 
-Download/clone this repository from this link: [GitHub Repository]() in your system. 
+Download/clone this repository from this link: [GitHub Repository](https://github.com/alihyder123IBA/Project) in your system. 
 Open command prompt of windwos or  (anaconda prompt), go to the folder that contains all project files. Then run the command set FLASK_APP=classifier.py now you have set the variable after that run the command python -m flask run now your localhost server is runnig 
 which will give you an address like localhost:5000 copy that and paste it in the address bar of web browser. 
 Project's interface will load on the web browser.
