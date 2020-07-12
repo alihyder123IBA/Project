@@ -4,12 +4,12 @@ In this project the sum of two strings is predicted. This is simple recurrent ne
 In this Hands on project I have used Simple Recurrent Neural Network. And One Hot Encoded Vector. The purpose of using this vector is to create a group of bits among which the legal combinations of values are only those with a single high bit and all the others low.
 
 ## Dependencies
-* tensorflow 2.0 	   	pip install tensorflow==2.0
+* tensorflow 2.0   	pip install tensorflow==2.0
 * keras 2.3
-* Python 3.6  If you are using anaconda3 by default it uses python 3.7 then you need to create a separete environment in which you will install python 3.6 in windows command                     prompt type conda create -n [env_name] python =3.6 , after that comman you will run another command that is conda activate [env_name] , Now your python 3.6                         environmnet is ready. And if you want to deactivate the environment type conda deactivate. 
-* flask		   	pip install flask
-* numpy			pip install numpy
-* pandas		pip install pandas
+* Python 3.6        If you are using anaconda3 by default it uses python 3.7 then you need to create a separete environment in which you will install python 3.6 in windows command                     prompt type conda create -n [env_name] python =3.6 , after that comman you will run another command that is conda activate [env_name] , Now your python 3.6                         environmnet is ready. And if you want to deactivate the environment type conda deactivate. 
+* flask		   	      pip install flask
+* numpy			        pip install numpy
+* pandas		        pip install pandas
 
 
 ## To Run this Project
